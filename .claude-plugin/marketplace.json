@@ -1,0 +1,12 @@
+{
+  "name": "byarto-kit",
+  "description": "Стартер-кит byArto для Claude Code",
+  "owner": { "name": "byArto" },
+  "plugins": [
+    {
+      "name": "byarto",
+      "source": "./plugins/byarto",
+      "description": "8 команд для старта: CLAUDE.md, план, починка, объяснение, дизайн, ревью, сохранение, выкладка"
+    }
+  ]
+}
